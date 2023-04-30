@@ -44,5 +44,4 @@ public class SituacaoService extends AlunoTemplate {
 
         return "Aprovado";
     }
-
 }
